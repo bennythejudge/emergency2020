@@ -8,6 +8,10 @@ https://www.theatlantic.com/ideas/archive/2020/03/respect-old/607864/?fbclid=IwA
 
 https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?fbclid=IwAR2Vl8X8oRzRK2OLHsuQq1TqKhg7MP845mrQgxYASgdQ6z9j9wmCNBq7A0Y
 
+
+https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4
+
+
 ## Having kids at home
 
 ### Ideas to entertain kids at home
@@ -40,6 +44,8 @@ https://portal.education.lu/cgie/
 
 
 ### Online resources in Luxembourgish
+
+https://www.youtube.com/channel/UC4cJRV4f5cLgIxPwFugFxwg/videos
 
 
 
