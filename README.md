@@ -1,18 +1,6 @@
 # Emergency 2020: a curated list of bookmarks and other resources
 
-
-## Articles
-
-https://www.theatlantic.com/ideas/archive/2020/03/respect-old/607864/?fbclid=IwAR30D7Um5G_TofhMXD86pfxfAAjPE1TEiq7jHL9wd9pHWrI1rm4McVg-NF0
-
-
-https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?fbclid=IwAR2Vl8X8oRzRK2OLHsuQq1TqKhg7MP845mrQgxYASgdQ6z9j9wmCNBq7A0Y
-
-
-https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4
-
-
-## Having kids at home
+## Entertaining and keeping kids busy
 
 ### Ideas to entertain kids at home
 
@@ -30,9 +18,9 @@ https://www.georgiaaquarium.org/webcam/ocean-voyager/
 
 https://www.facebook.com/pg/BrookfieldZoo/events/?ref=page_internal
 
-## Luxembourg-specific
+### Luxembourg-specific
 
-### Luxembourg schooling related links
+#### Luxembourg schooling related links
 
 https://script.lu/fr/schoul-doheem-2020
 
@@ -49,14 +37,14 @@ https://portal.education.lu/cgie/
 [https://portal.education.lu/dcl/](https://portal.education.lu/dcl/) (requires access)
 
 
-### Online resources in/for Luxembourgish
+#### Online resources in/for Luxembourgish
 
 https://www.youtube.com/channel/UC4cJRV4f5cLgIxPwFugFxwg/videos
 
 http://lensterkids-in-action.com/
 
 
-## Random stuff
+### Random stuff
 
 ```
 Hey. If you want to limit screentime and practice German, let me tell you there is a big culture of audiobooks for children in German.
@@ -64,6 +52,16 @@ For your child's age I could suggest "Findus und Petterson", "Liliane Susewind",
 Now the libraries are closed you could ask neighbours or buy some online and then share them around and swap.
 Most kids love audiobooks..
 ```
+
+## Articles
+
+https://www.theatlantic.com/ideas/archive/2020/03/respect-old/607864/?fbclid=IwAR30D7Um5G_TofhMXD86pfxfAAjPE1TEiq7jHL9wd9pHWrI1rm4McVg-NF0
+
+
+https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?fbclid=IwAR2Vl8X8oRzRK2OLHsuQq1TqKhg7MP845mrQgxYASgdQ6z9j9wmCNBq7A0Y
+
+
+https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4
 
 
 ## Data tools
