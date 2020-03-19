@@ -22,6 +22,13 @@ https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7f
 
 [https://www.panda-club.lu/](https://www.panda-club.lu/)
 
+https://www.glasgowsciencecentre.org/gsc-at-home
+
+### Online zoos/acquariums/etc..
+
+https://www.georgiaaquarium.org/webcam/ocean-voyager/
+
+https://www.facebook.com/pg/BrookfieldZoo/events/?ref=page_internal
 
 ## Luxembourg-specific
 
@@ -42,11 +49,11 @@ https://portal.education.lu/cgie/
 [https://portal.education.lu/dcl/](https://portal.education.lu/dcl/) (requires access)
 
 
-
-### Online resources in Luxembourgish
+### Online resources in/for Luxembourgish
 
 https://www.youtube.com/channel/UC4cJRV4f5cLgIxPwFugFxwg/videos
 
+http://lensterkids-in-action.com/
 
 
 ## Random stuff
@@ -64,4 +71,9 @@ Most kids love audiobooks..
 https://github.com/CSSEGISandData/COVID-19
 
 https://covid-19.splunkforgood.com/coronavirus__covid_19_
+
+
+## Silly stuff
+
+https://howmuchtoiletpaper.com/
 
