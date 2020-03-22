@@ -70,6 +70,8 @@ https://github.com/CSSEGISandData/COVID-19
 
 https://covid-19.splunkforgood.com/coronavirus__covid_19_
 
+http://gabgoh.github.io/COVID/index.html
+
 
 ## Silly stuff
 
